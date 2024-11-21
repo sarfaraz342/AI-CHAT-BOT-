@@ -32,6 +32,8 @@ else:
     st.set_page_config(page_title="AI Chatbot", page_icon="🤖", layout="centered")
 
     # Custom CSS for styling
+
+    
     st.markdown("""
         <style>
         /* Full-screen background GIF */
@@ -43,6 +45,18 @@ else:
             position: relative;
             height: 100vh;
         }
+        .stButton > button {
+    background-color: #007bff; /* Primary color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.stButton > button:hover {
+    background-color: #0056b3; /* Darker shade */
+}
 
         /* Overlay for transparency effect */
         .overlay {
