@@ -12,7 +12,7 @@ Prerequisites
 Python 3.7 or higher.
 A valid API key from Cohere.
 Steps
-Clone the repository:
+Clone the repository:https://github.com/sarfaraz342/AI-CHAT-BOT-
 git clone 
 
 Navigate to the project directory: cd codealpha_tasks/bot Install dependencies: pip install -r requirements.txt
