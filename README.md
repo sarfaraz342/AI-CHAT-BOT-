@@ -21,4 +21,4 @@ Create a .env file in the project root and add your API key: COHERE_API_KEY=your
 
 Run the application using Streamlit:
 
-streamlit run main.py Open your web browser and go to http://localhost:8501 to interact with the chatbot.
+streamlit run main.py Open your web browser and go to https://aichatbot2024.streamlit.app/ to interact with the chatbot.
